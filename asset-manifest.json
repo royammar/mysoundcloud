@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mysoundcloud/static/css/main.993f1777.chunk.css",
-    "main.js": "/mysoundcloud/static/js/main.c9101004.chunk.js",
-    "main.js.map": "/mysoundcloud/static/js/main.c9101004.chunk.js.map",
+    "main.js": "/mysoundcloud/static/js/main.a64c1d5f.chunk.js",
+    "main.js.map": "/mysoundcloud/static/js/main.a64c1d5f.chunk.js.map",
     "runtime-main.js": "/mysoundcloud/static/js/runtime-main.35aae09f.js",
     "runtime-main.js.map": "/mysoundcloud/static/js/runtime-main.35aae09f.js.map",
     "static/js/2.4396f69a.chunk.js": "/mysoundcloud/static/js/2.4396f69a.chunk.js",
     "static/js/2.4396f69a.chunk.js.map": "/mysoundcloud/static/js/2.4396f69a.chunk.js.map",
     "index.html": "/mysoundcloud/index.html",
-    "precache-manifest.a6a87f90e7946592fa2363104cdd2d27.js": "/mysoundcloud/precache-manifest.a6a87f90e7946592fa2363104cdd2d27.js",
+    "precache-manifest.9f963d0de42fbd7ed43f6a2b87674f9d.js": "/mysoundcloud/precache-manifest.9f963d0de42fbd7ed43f6a2b87674f9d.js",
     "service-worker.js": "/mysoundcloud/service-worker.js",
     "static/css/main.993f1777.chunk.css.map": "/mysoundcloud/static/css/main.993f1777.chunk.css.map",
     "static/js/2.4396f69a.chunk.js.LICENSE.txt": "/mysoundcloud/static/js/2.4396f69a.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.35aae09f.js",
     "static/js/2.4396f69a.chunk.js",
     "static/css/main.993f1777.chunk.css",
-    "static/js/main.c9101004.chunk.js"
+    "static/js/main.a64c1d5f.chunk.js"
   ]
 }

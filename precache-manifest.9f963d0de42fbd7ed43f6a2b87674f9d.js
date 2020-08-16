@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "480095efb86517d53e37cba646b9f1f0",
+    "revision": "ccfc94ffd236964d141aada3a8284302",
     "url": "/mysoundcloud/index.html"
   },
   {
-    "revision": "c7f5910ca4a61744bc02",
+    "revision": "bfacf2572a88482e1c3f",
     "url": "/mysoundcloud/static/css/main.993f1777.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mysoundcloud/static/js/2.4396f69a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c7f5910ca4a61744bc02",
-    "url": "/mysoundcloud/static/js/main.c9101004.chunk.js"
+    "revision": "bfacf2572a88482e1c3f",
+    "url": "/mysoundcloud/static/js/main.a64c1d5f.chunk.js"
   },
   {
     "revision": "be5c8b38f7eb1574afae",
