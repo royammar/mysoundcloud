@@ -1,0 +1,39 @@
+.footer {
+    height: 55px;
+    bottom: 0;
+    background-color: #aac3d4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+    .rights {
+        color: white;
+
+        font-size: 14px;
+      
+        text-transform: uppercase;
+        @include for-normal-layout {
+          letter-spacing: 4px;
+          font-weight: bold;
+        }
+    }
+  }
+  
+  .icon {
+    height: 30px;
+    width: 30px;
+    margin-left: 10px;
+  }
+  
+  .fa {
+    color: royalblue;
+  }
+  
+  .in {
+    color: royalblue;
+  }
+  
+  .footer-wrapper {
+    width: 80vw;
+  }
+  

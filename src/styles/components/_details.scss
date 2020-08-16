@@ -1,0 +1,22 @@
+
+
+.details-container {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    & img {
+        height: 200px;
+        width: 200px;
+    }
+
+}
+
+@include for-normal-layout {
+    .details-container{
+        & img {
+            height: 400px;
+            width: 400px;
+        }
+    }
+}
+
