@@ -15,7 +15,7 @@ function App() {
     <Router history={history}>
     <NavBar></NavBar>
     <Switch>
-      <Route path="/" component={Home} exact></Route>
+      <Route path="/mysoundcloud" component={Home} exact></Route>
     </Switch>
     <Footer></Footer>
   </Router>
